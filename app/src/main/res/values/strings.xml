@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="un">UserName</string>
+    <string name="login">login</string>
+    <string name="reg">register</string>
+    <string name="admin">Admin Panel</string>
+    <string name="mName">Movie Name</string>
+    <string name="mYear">Movie Year</string>
+    <string name="add">add</string>
+    <string name="movies">Movies</string>
+    <string name="rate">Ratings</string>
+    <string name="rateings">Rate</string>
+    <string name="comm">Comments</string>
+    <string name="submitA">submitA</string>
+    <string name="crate">Current Rating</string>
+</resources>
